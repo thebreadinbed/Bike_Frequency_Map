@@ -1,0 +1,161 @@
+commit c2e2a90d238306fbc811606e3d2fb04cfde1c220 (HEAD -> main)
+Author: breadinbed <yu_jiayi@live.concordia.ca>
+Date:   Wed Apr 12 17:10:01 2023 -0400
+
+    test rm heavy files (ES)
+
+commit 86b0bdf15b7bb2edbf9a14b603463b09115f4378 (secondmain)
+Author: breadinbed <yu_jiayi@live.concordia.ca>
+Date:   Tue Apr 11 15:11:30 2023 -0400
+
+    regroup the gdf to get a resulting frequency table with only the number of trips per ID_TRC with a geometry column
+
+commit f08cedb1c2f6575fb6983787c9fbe373a7e46913
+Author: breadinbed <yu_jiayi@live.concordia.ca>
+Date:   Tue Apr 11 14:58:45 2023 -0400
+
+    Group by the street network section to count the number of trips per street and remerge to geobase
+
+commit 6de788b8cbd8efcbcdae73f3e2bfd2914bcb4970
+Author: breadinbed <yu_jiayi@live.concordia.ca>
+Date:   Tue Apr 11 14:46:20 2023 -0400
+
+    Spatial join the buffer to the geobase and remove highways
+
+commit 6e765521f0e86338b26320982209b3fecbd01b35
+Author: breadinbed <yu_jiayi@live.concordia.ca>
+Date:   Tue Apr 11 14:33:31 2023 -0400
+
+    # use assign method to create a new column in bt_mtm8_buffered_gdf by computing values based on existing column id_trip
+
+commit 712ab98ed649e3196da17eba07434f61b587d778
+Author: breadinbed <yu_jiayi@live.concordia.ca>
+Date:   Tue Apr 11 14:02:17 2023 -0400
+
+    create buffer around bike trip polyline data
+:...skipping...
+commit c2e2a90d238306fbc811606e3d2fb04cfde1c220 (HEAD -> main)
+Author: breadinbed <yu_jiayi@live.concordia.ca>
+Date:   Wed Apr 12 17:10:01 2023 -0400
+
+    test rm heavy files (ES)
+
+commit 86b0bdf15b7bb2edbf9a14b603463b09115f4378 (secondmain)
+Author: breadinbed <yu_jiayi@live.concordia.ca>
+Date:   Tue Apr 11 15:11:30 2023 -0400
+
+    regroup the gdf to get a resulting frequency table with only the number of trips per ID_TRC with a geometry column
+
+commit f08cedb1c2f6575fb6983787c9fbe373a7e46913
+Author: breadinbed <yu_jiayi@live.concordia.ca>
+Date:   Tue Apr 11 14:58:45 2023 -0400
+
+    Group by the street network section to count the number of trips per street and remerge to geobase
+
+commit 6de788b8cbd8efcbcdae73f3e2bfd2914bcb4970
+Author: breadinbed <yu_jiayi@live.concordia.ca>
+Date:   Tue Apr 11 14:46:20 2023 -0400
+
+    Spatial join the buffer to the geobase and remove highways
+
+commit 6e765521f0e86338b26320982209b3fecbd01b35
+Author: breadinbed <yu_jiayi@live.concordia.ca>
+Date:   Tue Apr 11 14:33:31 2023 -0400
+
+    # use assign method to create a new column in bt_mtm8_buffered_gdf by computing values based on existing column id_trip
+
+commit 712ab98ed649e3196da17eba07434f61b587d778
+Author: breadinbed <yu_jiayi@live.concordia.ca>
+Date:   Tue Apr 11 14:02:17 2023 -0400
+
+    create buffer around bike trip polyline data
+
+commit b5f9abc5db3ce4dc47a56266bf8358aadd313c42
+Author: breadinbed <yu_jiayi@live.concordia.ca>
+Date:   Tue Apr 11 13:52:57 2023 -0400
+
+    set geobase and bike trip data to same projection
+
+commit 55edc7a477631e8787e553f9deb47dcc9f9492a4
+Author: breadinbed <yu_jiayi@live.concordia.ca>
+Date:   Tue Apr 11 13:43:41 2023 -0400
+
+    input new set of polyline bike data from 2017
+
+commit 10f53cdf033c8bed23242dc7ff6a93408219751a
+Author: breadinbed <yu_jiayi@live.concordia.ca>
+Date:   Fri Apr 7 00:42:41 2023 -0400
+
+    file too large zip test
+
+commit e117e22531f0a13095cbd311b2c4aff99b9464fc
+Author: breadinbed <yu_jiayi@live.concordia.ca>
+Date:   Fri Apr 7 00:30:09 2023 -0400
+
+    file too big solution 1
+
+commit 0891ad4b0bd9a170c296d100eef8b685886dd81a
+Author: breadinbed <yu_jiayi@live.concordia.ca>
+Date:   Thu Apr 6 23:49:42 2023 -0400
+
+    last modification
+
+commit 113284ff48f3078e599e5701134858a2d3b3be10
+Author: breadinbed <yu_jiayi@live.concordia.ca>
+Date:   Wed Apr 5 21:57:14 2023 -0400
+
+    Add .gitignore file containing shapefile
+
+commit d5b0b30e60ed7974f12b9650434d206450463b53
+Author: breadinbed <yu_jiayi@live.concordia.ca>
+Date:   Wed Apr 5 19:47:18 2023 -0400
+
+    Importing my data
+
+commit 7fbe298f9c887017088a204b4795f4e5164c6ccf
+Author: breadinbed <yu_jiayi@live.concordia.ca>
+Date:   Wed Apr 5 19:14:38 2023 -0400
+
+    Importing my data
+
+commit 7d48ae28b56ba56065944de425e50243a2a8dd18
+Author: breadinbed <yu_jiayi@live.concordia.ca>
+Date:   Fri Mar 24 15:40:41 2023 -0400
+
+    2023/03/24
+
+commit 6006ba503d4051771bdf4c08930689573185bdcd
+Author: breadinbed <yu_jiayi@live.concordia.ca>
+Date:   Thu Mar 23 11:10:00 2023 -0400
+
+    2023-03-23
+
+commit 0ca78edb20ee2eb6867b7259d6dba24e8139e3e3
+Author: breadinbed <yu_jiayi@live.concordia.ca>
+Date:   Thu Mar 23 07:14:57 2023 -0400
+
+    2023-03-23
+
+commit bd0a6a0e4b4d2a39dba1a547b8ecd74f879897be
+Author: breadinbed <yu_jiayi@live.concordia.ca>
+Date:   Thu Mar 23 07:13:44 2023 -0400
+
+    2023-03-23
+
+commit 7f76f6bf21f9514b68edc55f5998e13433cb7df5
+Author: breadinbed <yu_jiayi@live.concordia.ca>
+Date:   Wed Mar 22 15:29:07 2023 -0400
+
+    2023/03/22
+
+commit 29551a8cf253b6dd84cbc4ea970abdd2c27b6942 (origin/main, origin/HEAD)
+Author: breadinbed <yu_jiayi@live.concordia.ca>
+Date:   Wed Mar 15 10:29:19 2023 -0400
+
+    Project_Proposal_2023_03_15
+
+commit 323b4fb0a471c8bbe6e3cf322441515844176c48
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Tue Feb 7 03:34:53 2023 +0000
+
+    Initial commit
