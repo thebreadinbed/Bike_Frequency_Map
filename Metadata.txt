@@ -1,0 +1,6 @@
+summary/description; Bike density map 
+source/source url(s); https://thebreadinbed.github.io/Bike_Frequency_Map/
+date collected; 2023/04/05
+date published; 2023/04/14
+coordinate system; World Geodetic System 1984
+projection; epsg=4326

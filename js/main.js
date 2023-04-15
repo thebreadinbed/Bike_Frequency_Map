@@ -60,11 +60,11 @@ function initialize() {
 			var div = L.DomUtil.create('div', 'legend');
 			div.style.padding = '15px'; // add a 10px padding to the legend container
 			div.style.fontSize = '14px';
-			div.style.width = '250px';
+			div.style.width = '300px';
 			div.style.height = '200px';
 			div.style.backgroundColor = 'rgba(255, 255, 255, 0.8)';
 			// Define the legend HTML content
-			div.innerHTML += '<div class="legend-title">Individual Bike Journey Registered by MTL Trajet, 2016</h4>';
+			div.innerHTML += '<div class="legend-title">Individual Bike Journey Registered by MTL Trajet for the period of October 17th to November 17th 2016</h4>';
 			div.innerHTML += '<div class="legend-item"><div class="legend-line" style="border: 2px solid #ff7b25; "></div><div class="legend-label">1 - 100</div></div>';
 			div.innerHTML += '<div class="legend-item"><div class="legend-line" style="border: 3px solid #ff7b25; "></div><div class="legend-label">100 - 200</div></div>';
 			div.innerHTML += '<div class="legend-item"><div class="legend-line" style="border: 4px solid #ff7b25; "></div><div class="legend-label">200 - 300</div></div>';
@@ -85,7 +85,6 @@ function initialize() {
 			div.style.backgroundColor = 'rgba(255, 255, 255, 0.8)';
 			// Define the legend HTML content
 			div.innerHTML += '<div class="legend-description">MTL Trajet is an application developed by Concordia University and updated by the City of Montreal to collect individual bike journey in the urban agglomeration of Montreal. Users were invited to download the application on their phone and record their bike journey. The data were collected in 2016 between the month of October and November. This map displays the frequency of bike users by road section.</h4>';
-			return div;
 		};
 
 // Add the legend control to the map
